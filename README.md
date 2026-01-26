@@ -1,6 +1,6 @@
 # Disease Prediction System
 
-## 📌 Overview
+##  Overview
 This project is a comprehensive Disease Prediction System that predicts the likelihood of diseases based on user inputs and medical datasets.
 
 The system supports both **built-in medical datasets** and **custom user-uploaded datasets**. It dynamically generates relevant questions, performs data preprocessing and visualization, and predicts diseases using machine learning models.
@@ -9,7 +9,7 @@ The goal is to provide an interactive and flexible framework for disease risk as
 
 ---
 
-## 🩺 Supported Diseases (Built-in)
+##  Supported Diseases (Built-in)
 The system includes pre-trained datasets and predefined question flows for:
 - Heart Disease
 - Diabetes
@@ -22,7 +22,7 @@ For these datasets, the system:
 
 ---
 
-## ⚙️ Key Features
+##  Key Features
 - Built-in datasets for common diseases
 - Dynamic question generation based on selected dataset
 - Upload custom medical datasets (CSV format)
@@ -39,7 +39,7 @@ For these datasets, the system:
 
 ---
 
-## 🧠 Technologies Used
+##  Technologies Used
 - Python
 - Machine Learning
 - Pandas, NumPy
