@@ -48,5 +48,6 @@ For these datasets, the system:
 - VS Code
 
 ---
-
+## Live Demo
+https://disease-prediction-ml-jzhipwrpkxgnechhh2jv2d.streamlit.app/
 
